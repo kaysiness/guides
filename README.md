@@ -1,9 +1,6 @@
 # Description
-kaysiness's guides
 
 # Usage
 
 # License
-Text: [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
-
-Image/Video: copyrighted by their respective owners, source/creator will be included as captions.
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
